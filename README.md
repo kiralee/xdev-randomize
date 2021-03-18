@@ -1,9 +1,12 @@
 #Randomize package
 This package will random number, string and element in the specific array.
+
 ##Requirements
-### PHP >= 7.3
-### Composer > 1.0
+###PHP >= 7.3
+###Composer > 1.0
+
 ##How to use
+
 ### run by composer
     composer require xdev\randomize
 ### Add package to your code
