@@ -13,7 +13,7 @@ class randomTest extends TestCase{
         $this->assertIsNumeric($result);
     }
 
-    public function  testRandomString()
+    public function testRandomString()
     {
         $result = Random::randomString(20);
         $this->assertIsString($result);
