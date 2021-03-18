@@ -2,7 +2,7 @@
     "name": "xdev/randomize",
     "description": "Support random number, string, array, list",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {

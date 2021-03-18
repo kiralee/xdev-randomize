@@ -18,4 +18,18 @@ class randomTest extends TestCase{
         $result = Random::randomString(20);
         $this->assertIsString($result);
     }
+
+    public function  testRandomElementInArray()
+    {
+        $testCase = [
+            'apple',
+            'orange',
+            'carrot',
+            'something',
+            'foo',
+            'bazzzz'
+        ];
+        $result = Random::randomElementInArray($testCase);
+        $this->assertIsString($result);
+    }
 }
