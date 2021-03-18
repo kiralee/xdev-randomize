@@ -12,9 +12,11 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "php": ">= 7.3",
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
+
         "psr-4": {
             "Xdev\\": "src/",
             "Test\\": "tests/"
