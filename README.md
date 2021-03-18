@@ -1,11 +1,11 @@
-#Randomize package
+# Randomize package
 This package will random number, string and element in the specific array.
 
-##Requirements
-###PHP >= 7.3
-###Composer > 1.0
+## Requirements
+### PHP >= 7.3
+### Composer > 1.0
 
-##How to use
+## How to use
 
 ### run by composer
     composer require xdev\randomize
@@ -14,7 +14,7 @@ This package will random number, string and element in the specific array.
 
 call class **Random** and use static method
 
-##Methods
+## Methods
 
 ### randomNumber ($min,$max):int
 <table>
@@ -85,11 +85,11 @@ It will random string using using random_bytes and bin2hex function from php def
 </table>
 It will random element in needed array.
 
-##License
+## License
 
 MIT
 
-##Author
+## Author
 Kiden Snapter, Duy Lucas
 
 
