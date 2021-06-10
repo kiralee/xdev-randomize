@@ -8,7 +8,7 @@ This package will random number, string and element in the specific array.
 ## How to use
 
 ### run by composer
-    composer require xdev\randomize
+    composer require xdev/randomize
 ### Add package to your code
     use Xdev\Support\Randomize\Random
 
