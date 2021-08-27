@@ -16,7 +16,7 @@ call class **Random** and use static method
 
 ## Methods
 
-###randomNumber ($min,$max):int
+### randomNumber ($min,$max):int
 <table>
     <tr>
         <td>
@@ -44,7 +44,7 @@ call class **Random** and use static method
     </tr>
 </table>
 It will random number from min to max that using rand function from php default.
-###randomString ($length):string
+### randomString ($length):string
 <table>
     <tr>
         <td>
@@ -64,7 +64,7 @@ It will random number from min to max that using rand function from php default.
     </tr>
 </table>
 It will random string using using random_bytes and bin2hex function from php default.
-###randomElementInArray ($neededArray):mixed
+### randomElementInArray ($neededArray):mixed
 <table>
     <tr>
         <td>
