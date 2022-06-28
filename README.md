@@ -91,9 +91,7 @@ MIT
 
 ## Author
 Kiden Snapter, Duy Lucas
-
-
-
-
+## Add Lighthouse Action
+Test
 
 
